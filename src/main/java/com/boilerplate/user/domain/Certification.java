@@ -1,5 +1,7 @@
 package com.boilerplate.user.domain;
 
+import com.boilerplate.user.domain.type.CertificationStatus;
+import com.boilerplate.user.domain.type.Gender;
 import jakarta.persistence.*;
 
 import java.time.LocalDate;

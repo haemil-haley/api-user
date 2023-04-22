@@ -1,5 +1,7 @@
 package com.boilerplate.user.domain;
 
+import com.boilerplate.user.domain.type.Client;
+import com.boilerplate.user.domain.type.LogStatus;
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;
